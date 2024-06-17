@@ -1,0 +1,9 @@
+
+8
+local.tf,7/7/77885c0cbe8d6a82d6c56290d5768022547c3fbd
+C
+.terraform.lock.hcl,6/6/66e243a22ff9e86d8a235394b3f1934b61046942
+;
+example.txt,e/1/e1bc3ba85b832a12e5537300fa1def22727f330e
+A
+terraform.tfstate,2/2/227b4671917a313ad00aa14b4e57236db9500e7c
