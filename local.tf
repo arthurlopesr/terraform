@@ -1,4 +1,8 @@
 resource "local_file" "example" {
   filename = "example.txt"
-  content = "Full Cycle"
+  content = var.content
+}
+
+variable "content" {
+  type = string
 }
